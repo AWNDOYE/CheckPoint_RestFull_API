@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "660154ec93fb4c0cd1ff0fcf"
+  },
+  "userName": "tafand",
+  "email": "awa36@gmail.com",
+  "password": "gomycode2002",
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2024-03-26T10:14:06.965Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "660154ec93fb4c0cd1ff0fd2"
+  },
+  "userName": "mamiDieng",
+  "email": "dieng520@gmail.com",
+  "password": "gomycode2010",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660154ec93fb4c0cd1ff0fd0"
+  },
+  "userName": "FamaLaye",
+  "email": "awa65@gmail.com",
+  "password": "gomycode2003",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660158f2451b39afd0e5c596"
+  },
+  "userName": "bintou_Bintou",
+  "email": "bin2014@gmail14",
+  "password": "gomycode2015",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660154ec93fb4c0cd1ff0fd1"
+  },
+  "userName": "astoudieng",
+  "email": "astou2005@gmail.com",
+  "password": "gomycode2007",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6602a78850ec712d179bd76b"
+  },
+  "userName": "PapeMoussa",
+  "email": "moussa@gmail.com",
+  "password": "gomycode2045",
+  "createdAt": {
+    "$date": "2024-03-26T10:46:32.118Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T10:46:32.118Z"
+  },
+  "__v": 0
+}]
