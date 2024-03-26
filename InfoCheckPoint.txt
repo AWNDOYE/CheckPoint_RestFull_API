@@ -1,0 +1,61 @@
+What You're Aiming For
+
+Dans ce checkpoint, vous allez effectuer une série d'instructions guidées pour créer une API REST en manipulant votre base de données avec la mangouste.
+
+ 
+
+PS : n'oubliez pas de commenter votre code avant de le soumettre.
+
+
+Instructions
+
+Démarrer un nouveau projet Node JS avec ' npm init '
+Installer mongoose et express et .env
+Configurer les variables d'environnement avec .env
+Déterminez un serveur avec express dans le fichier server.js
+Connectez votre base de données localement ou avec mongo atlas
+La structure du dossier devrait être comme ceci :
+config/ .env  
+
+Server.js
+
+    7. Créer un dossier models et un fichier User.js dans ce dossier  
+
+ 
+
+    8. Dans User.js vous devez définir un Schema mangouste et exporter le modèle, vous l'utiliserez dans server.js
+
+ 
+
+    9. La structure du dossier doit être la suivante :  
+
+config/ .env  
+
+models/User.js
+
+Server.js
+
+    10. Dans le server.js, créez quatre routes :  
+
+      GET : RENVOIE TOUS LES UTILISATEURS  
+
+      POST : AJOUTE UN NOUVEL UTILISATEUR À LA BASE DE DONNÉES  
+
+      PUT : MODIFIER UN UTILISATEUR PAR SON IDENTIFIANT  
+
+      DELETE : SUPPRIMER UN UTILISATEUR PAR SON IDENTIFIANT  
+
+NB : dans chaque fonction de rappel, vous utiliserez des méthodes de la mangouste pour manipuler vos données et les renvoyer dans la réponse.  
+
+    11.  Utilisez postman pour tester chaque route.
+
+               
+
+ 
+
+ Liens utiles :  
+
+.env : https://www.npmjs.com/package/dotenv
+Express js : https://expressjs.com/
+Req.params && req.query : https://coursework.vschool.io/express-params-and-query/
+Mongoose : https://mongoosejs.com/
